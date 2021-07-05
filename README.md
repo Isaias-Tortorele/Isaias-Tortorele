@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 6º semestre do curso pela Universidade Nove de Julho.<br>
+Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 6º semestre do curso, pela Universidade Nove de Julho.<br><br>
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽
 
 <img align="cente" alt="GIF"  height="200px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
@@ -25,7 +25,7 @@ Atualmente, essas são as tecnologias que mais conheço (iniciante):
 <code><img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" height="35px" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="35px"></code>
 
-Mas, já usei em prejetos acadêmicos e pessoais:
+Mas, já usei em projetos acadêmicos e pessoais:
 
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/></code>
 <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" height="35px" /></code>
