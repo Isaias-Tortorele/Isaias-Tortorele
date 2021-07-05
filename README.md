@@ -12,20 +12,10 @@
 Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 6º semestre do curso pela Universidade Nove de Julho.
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽.
 
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
 <code><img align="right" alt="GIF"  height="250px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" /></code>
 
-
 ### 👨‍💻 Tecnologias
-
+<code>
 Atualmente, essas são as tecnologias que mais conheço (iniciante):
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"></code>
@@ -55,4 +45,5 @@ Mas, já usei em prejetos acadêmicos e pessoais:
 </br>
 
 "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência." - Henry Ford
+</code>
 
