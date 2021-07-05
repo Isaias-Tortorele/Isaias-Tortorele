@@ -13,8 +13,8 @@ Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-en
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽.
 
 <br>
-
-<img align="right" alt="GIF"  height="350px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
+<br>
+<code><img align="right" alt="GIF"  height="350px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" /></code>
 
 ### 👨‍💻 Tecnologias
 
@@ -37,6 +37,8 @@ Mas, já usei em prejetos acadêmicos e pessoais:
 <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" height="35px" /></code>
 <code><img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" height="35px" /></code>
 
+###
+###
 ###
 ###
 ###
