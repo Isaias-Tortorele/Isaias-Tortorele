@@ -6,18 +6,14 @@
   <img align="left" alt="Joabson's Github" height="35px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
 </a>
 
-<br>
-<br>
+</br>
+</br>
 
 Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 6º semestre do curso pela Universidade Nove de Julho.
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽.
 
 <code><img align="right" alt="GIF"  height="250px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" /></code>
 
-###
-###
-###
-###
 
 ### 👨‍💻 Tecnologias
 
@@ -40,11 +36,14 @@ Mas, já usei em prejetos acadêmicos e pessoais:
 <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" height="35px" /></code>
 <code><img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" height="35px" /></code>
 
-###
-###
-###
-###
-###
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 "O insucesso é apenas uma oportunidade para recomeçar com mais inteligência." - Henry Ford
 
