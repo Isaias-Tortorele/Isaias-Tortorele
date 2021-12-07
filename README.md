@@ -1,9 +1,9 @@
 ### Olá, Isaias Tortorele aqui 👋
 <a href="https://www.linkedin.com/in/isaias-tortorele-958366161/">
-  <img align="left" alt="Linkedin Isaias Tortorele" height="35px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="left" alt="Linkedin Isaias Tortorele" height="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://github.com/Isaias-Tortorele/">
-  <img align="left" alt="Isaias Github" height="35px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
+  <img align="left" alt="Isaias Github" height="35px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
 
 <br>
