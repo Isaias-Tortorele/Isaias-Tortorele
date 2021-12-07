@@ -3,7 +3,7 @@
   <img align="left" alt="Linkedin Isaias Tortorele" height="35px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://github.com/Isaias-Tortorele/">
-  <img align="left" alt="Joabson's Github" height="35px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
+  <img align="left" alt="Isaias Github" height="35px" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
 </a>
 
 <br>
