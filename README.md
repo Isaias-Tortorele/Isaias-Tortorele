@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 6º semestre do curso, pela Universidade Nove de Julho (UNINOVE).<br><br>
+Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 7º semestre do curso, pela Universidade Nove de Julho (UNINOVE).<br><br>
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽
 
 <img align="cente" alt="GIF"  height="200px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
