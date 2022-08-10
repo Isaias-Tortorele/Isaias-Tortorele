@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 7º semestre do curso, pela Universidade Nove de Julho (UNINOVE).<br><br>
+Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 8º semestre do curso, pela Universidade Nove de Julho (UNINOVE).<br><br>
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽
 
 <img align="cente" alt="GIF"  height="200px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
@@ -20,7 +20,7 @@ Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e
 Atualmente, essas são as tecnologias que mais conheço (iniciante):
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"></code>
-<code><img height="30" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="35px"></code>
 <code><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" height="35px" /></code>
 <code><img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" height="35px" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="35px"></code>
@@ -32,7 +32,7 @@ Mas, já usei em projetos acadêmicos e pessoais:
 <code><img src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png" height="35px" /></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" height="35px" /></code>
-<code><img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="35px"/></code>
 <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/></code>
 
 <code><img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" /></code>
