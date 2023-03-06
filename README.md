@@ -10,7 +10,7 @@
 <br>
 <br>
 
-Sou **Isaias Tortorele dos Santos**, Estou iniciando no desenvolvimento front-end/mobile 👨🏻‍💻, Estou me formando em **Ciência da computação**, no momento estou no 8º semestre do curso, pela Universidade Nove de Julho (UNINOVE).<br><br>
+Meu nome é **Isaias Tortorele dos Santos** e sou recém-formado em Ciência da Computação pela Universidade Nove de Julho (UNINOVE). Estou começando minha carreira no desenvolvimento Front-end/Mobile 👨🏻‍💻..<br><br>
 Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e jogar muita bola ⚽
 
 <img align="cente" alt="GIF"  height="200px" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" />
@@ -36,7 +36,6 @@ Mas, já usei em projetos acadêmicos e pessoais:
 <code><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/></code>
 
 <code><img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" /></code>
-<code><img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" /></code>
 <code><img src="https://img1.gratispng.com/20180415/pjw/kisspng-adobe-xd-user-interface-design-computer-icons-adob-adobe-5ad2fa7cce9f02.2569342615237761248463.jpg" height="35px" /></code>
 
 
