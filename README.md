@@ -17,7 +17,7 @@ Além da paixão pela programação, gosto de futebol, cozinhar, ouvir música e
 
 ### 👨‍💻 Tecnologias
 
-Atualmente, essas são as tecnologias que mais conheço (iniciante):
+Atualmente, essas são as tecnologias que mais conheço:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" height="35px"></code>
